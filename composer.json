@@ -1,0 +1,10 @@
+{
+	"require":{
+		"kriswallsmith/assetic":"*@dev",
+		"twig/twig":"*@dev",
+		"leafo/lessphp":"*@dev",
+		"leafo/scssphp":"*@dev",
+		"ptachoire/cssembed":"*@dev",
+		"leafo/scssphp-compass":"*@dev"
+	}
+}
