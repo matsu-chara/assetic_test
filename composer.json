@@ -1,6 +1,6 @@
 {
 	"require":{
-		"kriswallsmith/assetic":"*@dev",
+		"kriswallsmith/assetic":"1.1.*@dev",
 		"twig/twig":"*@dev",
 		"leafo/lessphp":"*@dev",
 		"leafo/scssphp":"*@dev",
